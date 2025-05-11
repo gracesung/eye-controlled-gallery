@@ -1,1 +1,3 @@
 # eye-controller
+
+This is a blink controlled photo gallery!
