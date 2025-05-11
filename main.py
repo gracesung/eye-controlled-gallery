@@ -20,7 +20,7 @@ VERBOSE = False
 
 # check for verbose mode
 if (len(sys.argv)) == 2:
-    if (sys.argv[1] == "verbose" or sys.argv[1] == "-v"):
+    if (sys.argv[1] == "--verbose" or sys.argv[1] == "-v"):
         print("Verbose mode enabled")
         VERBOSE = True
     else:
