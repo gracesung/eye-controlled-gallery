@@ -14,6 +14,8 @@ Run the following command: `python main.py [--verbose|-v]`
 
 Verbose mode can be set by the '--verbose' or '-v' flag. This will display the camera feed and all of the facial landmarks, as well as numerical data.
 
+To advance to the next image, close your eyes for a bit longer than a blink. The image will advance when you open your eyes from the long blink. Any short blinks will not count as an advance signal.
+
 To exit, press 'q' on the keyboard.
 
 # Libraries Used
